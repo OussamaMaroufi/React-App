@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        <h1>Welcome !</h1>
+        <h1 style ={{color:"green"}}>Welcome !</h1>
         </a>
       </header>
     </div>
