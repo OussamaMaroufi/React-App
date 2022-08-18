@@ -17,7 +17,7 @@ function App() {
         >
         <h1 style ={{color:"green"}}>Welcome !</h1>
         <p>some text here</p>
-        <p style={{color:"blue"}}>Hello World</p>
+        <p style={{color:"red"}}>Hello World</p>
         </a>
       </header>
     </div>
